@@ -1,3 +1,3 @@
 # lomoda
-Online store sith modal windows and JS code
+Online store with modal windows and JS code
 ### JS
